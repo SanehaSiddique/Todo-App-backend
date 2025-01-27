@@ -55,7 +55,7 @@ todo-app
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SanehaSiddique/todo-app.git
+   git clone https://github.com/SanehaSiddique/Todo-App-backend.git
    cd todo-app
    ```
 
